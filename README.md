@@ -18,7 +18,7 @@ This repository contains a FastAPI application for Verification Address App usin
 
 The repository includes the following components:
 
-- **Model Architecture Code**: The architecture of the sentiment analysis model is defined in the file `model_architecture.py`.
+- **Model Architecture Code**: The architecture of the model and the trained process are defined in the file `Notebook.ipynb`.
 - **Server App Code**: The FastAPI application code is provided in the file `main.py`.
 - **Docker Compose Configuration**: The `docker-compose.yml` file defines the services required to build and run the application in a Docker container.
 - **Dockerfile**: The `Dockerfile` contains instructions for building the Docker image. Ensure that you have all necessary dependencies listed in `requirements.txt`.
