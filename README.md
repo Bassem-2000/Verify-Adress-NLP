@@ -10,6 +10,9 @@ This repository contains a FastAPI application for sentiment analysis using a pr
   - [Testing the Solution](#testing-the-solution)
   - [Verifying the Results](#verifying-the-results)
 - [Datasets and Source Links](#datasets-and-source-links)
+- [Contributing](#contributing)
+- [Contact](#Contact)
+- [Feedback](#Feedback)
 
 ## Architecture
 
@@ -45,5 +48,24 @@ Compare the predictions from the FastAPI application with the expected outcomes.
 Dataset: The Address verification model is trained on the Cairo dataset that is collected from here API.
 
 
-Additional Information
-For any issues or improvements, please open an issue or pull request. Your contributions are welcome!
+## Contributing
+
+Contributions to this project are welcome! If you have ideas for improvements or bug fixes, please create an issue or submit a pull request.
+
+## Contact
+
+[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />](https://wa.me/+201006491306)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />](https://www.linkedin.com/in/bassem-ahmed-ahmed/)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-256.png" />](mailto:bassemahmed.am@gmail.com)
+&nbsp;&nbsp;
+[<img alt="alt_text" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook2_colored_svg-512.png" />](https://www.facebook.com/bassem.ahmed.7712/)
+
+
+## Feedback
+
+Can you please provide me with feedback on how I can improve myself and any ideas to improve the model, I am eager to receive any advice that can help me develop my skills.
+
+&nbsp;&nbsp;
+**Wish you a nice day :)**
