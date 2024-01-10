@@ -16,7 +16,7 @@ This repository contains a FastAPI application for sentiment analysis using a pr
 The repository includes the following components:
 
 - **Model Architecture Code**: The architecture of the sentiment analysis model is defined in the file `model_architecture.py`.
-- **Server App Code**: The FastAPI application code is provided in the file `filename.py`. Please replace `filename` with the actual name of your file.
+- **Server App Code**: The FastAPI application code is provided in the file `main.py`.
 - **Docker Compose Configuration**: The `docker-compose.yml` file defines the services required to build and run the application in a Docker container.
 - **Dockerfile**: The `Dockerfile` contains instructions for building the Docker image. Ensure that you have all necessary dependencies listed in `requirements.txt`.
 
