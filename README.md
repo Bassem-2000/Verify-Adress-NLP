@@ -1,6 +1,6 @@
-# FastAPI Sentiment Analysis App
+# FastAPI Verification Address App
 
-This repository contains a FastAPI application for sentiment analysis using a pre-trained model. The application is containerized using Docker and can be easily built and deployed.
+This repository contains a FastAPI application for Verification Address App using a trained model. The application is containerized using Docker and can be easily built and deployed.
 
 ## Contents
 
