@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 import concurrent.futures
 
 # Load the model
-loaded_model = load_model('my_model.h5')
+loaded_model = load_model('model.h5')
 
 # Load the tokenizer
 with open('tokenizer.pickle', 'rb') as handle:
