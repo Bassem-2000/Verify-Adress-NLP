@@ -1,7 +1,5 @@
 fastapi
 uvicorn
 tensorflow
-multipart 
-numpy 
+multipart  
 scikit-learn 
-pickle 
