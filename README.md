@@ -53,9 +53,12 @@ Use your preferred tool (e.g., curl, Postman, or a web browser) to send POST req
 ### Verifying the Results
 To verify the results:
 Compare the predictions from the FastAPI application with the expected outcomes.
+The output will be one of two ways 
+1- "prediction: القاهرة"
+2 - "prediction: ليست القاهرة"
 
 ## Datasets and Source Links
-Dataset: The Address verification model is trained on the Cairo dataset that is collected from here API.
+Dataset: The Address verification model is trained on the Cairo dataset that is collected from [here](https://www.here.com/docs/bundle/places-search-api-developer-guide/page/topics/quick-start-find-text-string.html) API.
 
 
 ## Contributing
