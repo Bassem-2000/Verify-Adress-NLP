@@ -32,7 +32,7 @@ To build the Docker image, run the following command in the terminal:
 ```bash
 docker-compose up --build
 ```
-To Build the Docker container
+To Build the Docker container:
 
 ```
 docker build -t add-nlp .
